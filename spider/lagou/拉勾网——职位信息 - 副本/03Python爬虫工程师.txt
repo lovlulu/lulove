@@ -1,0 +1,61 @@
+链接, 职位 ,月薪 ,地点, 公司
+https://www.lagou.com/jobs/4130493.html,Python爬虫工程师,10k-20k,静安区,上海勃池信息技术有限公司
+https://www.lagou.com/jobs/4085755.html,Python爬虫工程师,13k-20k,虹口区,中腾信金融信息服务（上海）有限公司
+https://www.lagou.com/jobs/4107109.html,Java／Python高级开发职责描述（爬虫方向）,15k-28k,浦东新区,上海证大喜马拉雅网络科技有限公司
+https://www.lagou.com/jobs/3429880.html,Python研发工程师(爬虫方向),16k-22k,浦东新区,上海聚力传媒技术有限公司
+https://www.lagou.com/jobs/4109564.html,Python(爬虫）开发工程师,10k-15k,徐汇区,上海哈希信息科技有限公司
+https://www.lagou.com/jobs/4184905.html,Python开发工程师（上海）,15k-30k,浦东新区,平安科技（深圳）有限公司
+https://www.lagou.com/jobs/4017292.html,高级爬虫工程师Python（电商、媒体）,18k-25k,普陀区,翔傲信息科技（上海）有限公司
+https://www.lagou.com/jobs/3346434.html,高级Python研发工程师,15k-30k,徐汇区,上海贝涛金融信息服务有限公司
+https://www.lagou.com/jobs/4055859.html,Python高级开发工程师,20k-30k,长宁区,北京爱奇艺科技有限公司
+https://www.lagou.com/jobs/4060662.html,python工程师,8k-15k,浦东新区,上海海万信息科技股份有限公司
+https://www.lagou.com/jobs/4121644.html,Java/Python资深开发工程师,35k-70k,静安区,上海互趣网络科技有限公司
+https://www.lagou.com/jobs/3885914.html,后端python工程师,15k-25k,浦东新区,达疆网络科技（上海）有限公司
+https://www.lagou.com/jobs/3980046.html,Python开发工程师,20k-40k,浦东新区,上海华瑞银行股份有限公司
+https://www.lagou.com/jobs/4195737.html,Python资深开发工程师,18k-36k,长宁区,北京京东世纪贸易有限公司
+https://www.lagou.com/jobs/2688021.html,高级Python后端研发工程师,15k-30k,浦东新区,上海斗象信息科技有限公司
+https://www.lagou.com/jobs/3884663.html,高级爬虫工程师（Java/Python方向）,15k-30k,静安区,上海勃池信息技术有限公司
+https://www.lagou.com/jobs/3215849.html,Python开发工程师（上海）,10k-15k,浦东新区,平安科技（深圳）有限公司
+https://www.lagou.com/jobs/3726750.html,运维工程师（python）,8k-12k,闵行区,上海泛微网络科技股份有限公司
+https://www.lagou.com/jobs/3968333.html,高级研发 Python,20k-25k,浦东新区,上海店达信息技术有限公司
+https://www.lagou.com/jobs/4164099.html,后端开发工程师（Python）,15k-30k,徐汇区,上海触乐信息科技有限公司
+https://www.lagou.com/jobs/4145751.html,高级 /Lead Python 爬虫与数据工程师,25k-40k,徐汇区,上海比璟网络科技有限公司
+https://www.lagou.com/jobs/4186140.html,Python工程师,15k-30k,浦东新区,上海基分文化传播有限公司
+https://www.lagou.com/jobs/4063313.html,高级Python开发工程师,15k-22k,黄浦区,上海阿牛信息科技有限公司
+https://www.lagou.com/jobs/3240672.html,Python开发主管/经理（运维开发）,18k-35k,长宁区,北京三快在线科技有限公司
+https://www.lagou.com/jobs/2108656.html,Python开发工程师,15k-25k,浦东新区,上海进馨网络科技有限公司
+https://www.lagou.com/jobs/2438996.html,Python开发工程师,18k-28k,杨浦区,无锡华云数据技术服务有限公司
+https://www.lagou.com/jobs/4147119.html,Python开发工程师,20k-40k,杨浦区,上海道客网络科技有限公司
+https://www.lagou.com/jobs/4044245.html,Python开发／后端软件工程师.,20k-30k,虹口区,宏居网络技术（上海）有限公司
+https://www.lagou.com/jobs/3977016.html,Python资深开发,12k-24k,徐汇区,上海众言网络科技有限公司
+https://www.lagou.com/jobs/4120720.html,高级python开发工程师-SH415-41509,20k-40k,黄浦区,上海点融信息科技有限责任公司
+https://www.lagou.com/jobs/3832017.html,阿里云运维工程师（python）,10k-20k,闵行区,上海泛微网络科技股份有限公司
+https://www.lagou.com/jobs/3376282.html,Python 工程师,15k-30k,闵行区,上海果雪信息科技有限公司
+https://www.lagou.com/jobs/3018083.html,Python工程师,10k-20k,静安区,千言信息技术（上海）有限公司
+https://www.lagou.com/jobs/4149882.html,python开发工程师,14K-15K,浦东新区,上海坤亿信息技术有限公司
+https://www.lagou.com/jobs/4196104.html,服务端研发工程师 - Python,15k-30k,浦东新区,上海晨芽教育科技有限公司
+https://www.lagou.com/jobs/3546134.html,python工程师,15k-25k,徐汇区,上海青客公共租赁住房租赁经营管理股份有限公司
+https://www.lagou.com/jobs/4071680.html,Python开发工程师,10k-20k,杨浦区,上海道客网络科技有限公司
+https://www.lagou.com/jobs/4179491.html,Python工程师,10k-20k,普陀区,上海米闲企业管理合伙企业(有限合伙)
+https://www.lagou.com/jobs/3875064.html,python讲师,20k-40k,宝山区,北京千锋互联科技有限公司
+https://www.lagou.com/jobs/4090517.html,python架构,25k-35k,普陀区,苏州融畅软件科技有限公司
+https://www.lagou.com/jobs/4195383.html,Python,15K-30K,徐汇区,上海萨图西网络有限公司
+https://www.lagou.com/jobs/4040750.html,高级Python开发工程师,25k-50k,黄浦区,蜜柚网络科技（上海）有限公司
+https://www.lagou.com/jobs/3384818.html,Python软件开发工程师,10k-15k,长宁区,瞬联软件科技（北京）有限公司
+https://www.lagou.com/jobs/2561590.html,资深／高级Python工程师,16k-32k,普陀区,拉扎斯网络科技（上海）有限公司
+https://www.lagou.com/jobs/4120649.html,python开发工程师,15k-18k,普陀区,上海庆科信息技术有限公司
+https://www.lagou.com/jobs/3452584.html,运维工程师（python方向）,7k-12k,浦东新区,上海泛微网络科技股份有限公司
+https://www.lagou.com/jobs/3848677.html,Python,15k-30k,静安区,千言信息技术（上海）有限公司
+https://www.lagou.com/jobs/2145763.html,高级Python工程师,15k-25k,普陀区,拉扎斯网络科技（上海）有限公司
+https://www.lagou.com/jobs/3360370.html,Python研发工程师,15k-30k,闸北区,深圳市房多多网络科技有限公司
+https://www.lagou.com/jobs/3516805.html,python 开发工程师,10k-20k,杨浦区,上海墨沐金融信息服务有限公司
+https://www.lagou.com/jobs/3773567.html,Python开发,15k-25k,闵行区,上海果雪信息科技有限公司
+https://www.lagou.com/jobs/3963448.html,python,10k-20k,浦东新区,上海微麦电子商务发展有限公司
+https://www.lagou.com/jobs/4119231.html,高级 Python 研发工程师（上海）,10k-20k,杨浦区,上海道客网络科技有限公司
+https://www.lagou.com/jobs/3942529.html,高级Python开发,12k-24k,徐汇区,上海众言网络科技有限公司
+https://www.lagou.com/jobs/4195846.html,python工程师,10k-20k,徐汇区,上海千叶网络科技有限公司
+https://www.lagou.com/jobs/4124625.html,Python后端开发工程师 (MJ000606),15k-30k,浦东新区,沪江教育科技（上海）股份有限公司
+https://www.lagou.com/jobs/4130468.html,Python开发工程师,10k-20k,静安区,上海勃池信息技术有限公司
+https://www.lagou.com/jobs/4158151.html,Python软件开发工程师,15k-18k,浦东新区,上海坤亿信息技术有限公司
+https://www.lagou.com/jobs/1764146.html,高级Python工程师,12k-22k,徐汇区,上海迈外迪网络科技有限公司
+https://www.lagou.com/jobs/4042218.html,python工程师,10k-20k,徐汇区,上海大岂网络科技有限公司
